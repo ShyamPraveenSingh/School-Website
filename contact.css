@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* height: 100vh; */
+    /* background: white; */
+    background-size: cover;
+    font-family: Cardo;
+    color: cyan;
+}
+footer{
+    font-family: Cardo;
+    /* margin-top: 1000px; */
+}
+/* img{
+	align-content: right;
+	width: 750px;
+	height: 400px;
+} */
+#nn{
+    background-image: none;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    margin-left: 300px;
+    margin-right:300px ;
+    border-radius: 10px;
+    color: black;
+}
+
+
+*, ::after, ::before {
+    box-sizing: unset;
+}
+.hola{
+    background-color: blanchedalmond;
+    color: brown;
+    height: fit-content;
+}
+p{
+    color: burlywood;
+}

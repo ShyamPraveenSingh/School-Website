@@ -1,0 +1,117 @@
+
+body{
+	background-color: #fcf4a3;
+	
+}
+#he{
+	margin-top: 10vh;
+	width: 100%;
+	height: 400px;
+	/* padding-top: 35px; */
+	/* padding-bottom: 35px; */
+	/* border-radius: 4s5px; */
+
+}
+
+
+li a{
+	text-decoration-color: red;
+	font-size: 22px;
+	text-indent: 27px;
+}
+
+footer{
+	border-radius: 40px;
+	text-align: center;
+	/* color: white; */
+}
+
+.btn {
+  border: none; /* Remove borders */
+  color: white; /* Add a text color */
+  padding: 14px 28px; /* Add some padding */
+  cursor: pointer; /* Add a pointer cursor on mouse-over */
+}
+
+.danger {background-color:  #f44336;} /* Green */
+.danger:hover {background-color: #da190b;}
+
+.b{
+	text-align: center;
+	text-decoration-color: red;
+	font-size: 20px;
+}
+.vision{
+	font-size: 25px;
+	font-family: 'PT Serif', serif;
+	/* margin-top: -20pc; */
+}
+.contact{
+	/* border: 4px solid green; */
+	font-size: 20px;
+	text-align: center;
+}
+.features{
+	font-size: 18px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background-color: black;
+	border-color: black;
+	text-align: center;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+	padding-left: 2rem;
+	font-weight: bold;
+	font-size: 1px;
+}
+/* .jumbotron{
+	margin-top: 20px;
+} */
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 2.1rem;
+    padding-left: 1rem;
+    font-weight: bold;
+    font-size: 15px;
+	color: white;
+	border-radius: 20px;
+}
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+	/* color: rgba(0,0,0,.9);
+	c */
+	color: black;
+	background-color: blanchedalmond;
+}
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+	/* color: rgba(0,0,0,.9); */
+	color: blueviolet;
+}
+.navbar-light .navbar-brand {
+
+	/* color: rgba(0,0,0,.9); */
+	color: white;
+	font-weight: bold;
+	font-style: italic;
+	font-family: cursive;
+
+}
+
+.card{
+    width: 70%;
+    margin: auto;
+    /* height: 500px; */
+    margin-top: 20px;
+    border-radius: 50px;
+}
+.card .card-image img {
+    border-radius: 50px 50px 0 0;
+}
+
+li a{
+	color: currentColor;
+}

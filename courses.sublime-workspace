@@ -1,0 +1,523 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"dra",
+				"drawNet"
+			],
+			[
+				"ca",
+				"canvas"
+			],
+			[
+				"fi",
+				"fillText"
+			],
+			[
+				"pla",
+				"player1Score"
+			],
+			[
+				"can",
+				"canvas"
+			],
+			[
+				"fill",
+				"fillText"
+			],
+			[
+				"ba",
+				"ballSpeedY"
+			],
+			[
+				"pa",
+				"paddle1Y"
+			],
+			[
+				"ball",
+				"ballSpeedY"
+			],
+			[
+				"pal",
+				"player1Score"
+			],
+			[
+				"pl",
+				"player2Score"
+			],
+			[
+				"p",
+				"PADDLE_HEIGHT"
+			],
+			[
+				"pad",
+				"paddle2Y"
+			],
+			[
+				"padd",
+				"paddle2Y"
+			],
+			[
+				"text",
+				"text-danger"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"PA",
+				"PADDLE_THICKNESS"
+			],
+			[
+				"bal",
+				"ballX"
+			],
+			[
+				"P",
+				"PADDLE_HEIGHT"
+			],
+			[
+				"mouse",
+				"mouseX"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"cen",
+				"centerY"
+			],
+			[
+				"dr",
+				"drawColor"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"b",
+				"ballSpeedX"
+			],
+			[
+				"fa",
+				"facilities"
+			],
+			[
+				"car",
+				"card-text"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"bod",
+				"border\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"te",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"align-te",
+				"align-content\tproperty"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"disp",
+				"display-4"
+			],
+			[
+				"ju",
+				"jumbotron"
+			],
+			[
+				"tras",
+				"transition\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"todo",
+				"todoText"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wi",
+				"winningScore"
+			],
+			[
+				"p2",
+				"p2Display"
+			],
+			[
+				"c",
+				"classList"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"rs",
+				"resetButton"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/index/Project/contact.html",
+		"/D/index/Project/homepage.html",
+		"/D/index/Project/teachers.html",
+		"/D/index/Project/teachers.css",
+		"/D/index/Project/gallery.html",
+		"/D/index/Project/vision.html",
+		"/D/index/Project/courses.html",
+		"/D/index/Project/facilities.html",
+		"/D/index/Project/principal.html",
+		"/D/index/Project/gallery.css",
+		"/D/JS Games/game.html",
+		"/D/index/Project/vision.css",
+		"/D/index/Project/courses.css",
+		"/D/index/Project/template.html",
+		"/D/index/Project/facilities.css",
+		"/D/index/Project/homepage.css",
+		"/D/index/Project/aboutus.html",
+		"/D/index/Project/aboutus.css",
+		"/D/index/Project/principal.css",
+		"/D/index/Project/navbar.html",
+		"/D/index/Project/navbar.css",
+		"/D/index/Project/blog.html",
+		"/D/index/Project/navbar.js",
+		"/D/index/Project/styling.html",
+		"/D/index/Project/newcourse.html",
+		"/D/index/Project/try.html",
+		"/D/index/Project/index.html",
+		"/D/index/Project/contact.css",
+		"/D/index/Project/princiMsg.html",
+		"/D/index/Project/maps.html",
+		"/D/index/Project/maps.js",
+		"/D/index/Project/articles.css",
+		"/D/index/Project/style.css",
+		"/D/index/Project/blog.css",
+		"/D/index/Project/articles.html",
+		"/D/index/Project/newindex.html",
+		"/D/index/gallery.html",
+		"/C/Users/Shyam Praveen Singh/Desktop/StartMongo.bat",
+		"/D/PROGRAMMING/Web Dev/Projects/Todo List/index.html",
+		"/D/PROGRAMMING/Web Dev/Projects/Todo List/assets/js/todos.js",
+		"/D/PROGRAMMING/Web Dev/Resources/jQuery/events.html",
+		"/D/PROGRAMMING/Web Dev/Resources/jQuery/effects.html",
+		"/D/PROGRAMMING/Web Dev/Resources/jQuery/effects.js",
+		"/D/PROGRAMMING/Web Dev/Resources/jQuery/test.html",
+		"/D/PROGRAMMING/Web Dev/Resources/jQuery/exercise.html",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/mouse.html",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/mouse.js",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/score.html",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/score.js",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/score.css",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/colorchanger.html",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/colorchanger.js",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/text.html",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/attributes.html",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/todo.html",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/todo.js",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/bar.html",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/bar.js",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/stalker.html",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/script.js",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/age.html",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/age.js",
+		"/D/PROGRAMMING/Web Dev/search.html",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/demo.html",
+		"/D/PROGRAMMING/Web Dev/Resources/JavaScript/nam.js",
+		"/D/PROGRAMMING/Web Dev/Resources/Bootstrap/newgrid.html",
+		"/D/PROGRAMMING/Web Dev/Resources/Bootstrap/utilities.html",
+		"/D/PROGRAMMING/Web Dev/Resources/Bootstrap/colors.html",
+		"/D/PROGRAMMING/Web Dev/Resources/Bootstrap/starter4.html",
+		"/D/PROGRAMMING/Web Dev/Resources/Bootstrap/startup.css",
+		"/D/PROGRAMMING/Web Dev/Resources/Bootstrap/startup.html",
+		"/D/PROGRAMMING/Web Dev/Resources/Bootstrap/gallery.html",
+		"/D/PROGRAMMING/Web Dev/Resources/Bootstrap/gallery.css",
+		"/D/PROGRAMMING/Web Dev/Resources/Bootstrap/grid.html",
+		"/D/PROGRAMMING/Web Dev/Resources/Bootstrap/navbar.html",
+		"/D/PROGRAMMING/Web Dev/Resources/Bootstrap/basics.html",
+		"/D/PROGRAMMING/Web Dev/blog.html",
+		"/D/PROGRAMMING/Web Dev/blog.css",
+		"/D/PROGRAMMING/Web Dev/name.css",
+		"/D/PROGRAMMING/Web Dev/name.html",
+		"/D/PROGRAMMING/Web Dev/gallery.html",
+		"/D/PROGRAMMING/Web Dev/gallery.css",
+		"/D/PROGRAMMING/Web Dev/tictac.html",
+		"/D/PROGRAMMING/Web Dev/tictac.css",
+		"/D/PROGRAMMING/Web Dev/image.html",
+		"/D/PROGRAMMING/Web Dev/image.css",
+		"/D/PROGRAMMING/Web Dev/searchbar.html",
+		"/D/PROGRAMMING/Web Dev/searchbar.css",
+		"/D/PROGRAMMING/Web Dev/fonts.css",
+		"/D/PROGRAMMING/Web Dev/fonts.html",
+		"/D/PROGRAMMING/Web Dev/fifthassignment.html",
+		"/D/PROGRAMMING/Web Dev/fifthassignment.css",
+		"/D/PROGRAMMING/Web Dev/practise.css",
+		"/D/PROGRAMMING/Web Dev/practise.html",
+		"/D/PROGRAMMING/Web Dev/just.html",
+		"/D/PROGRAMMING/Web Dev/just.css",
+		"/D/PROGRAMMING/Web Dev/fourthassignment.html",
+		"/D/PROGRAMMING/Web Dev/thirdassignment.html",
+		"/D/PROGRAMMING/Web Dev/firstassignment.html",
+		"/D/PROGRAMMING/Web Dev/secondassignment.html",
+		"/D/PROGRAMMING/Python Progs/test.py",
+		"/C/Users/Shyam Praveen Singh/AppData/Roaming/Sublime Text 3/Packages/User/PythonSubText.sublime-build",
+		"/C/Users/Shyam Praveen Singh/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/PythonSubText.sublime-build",
+	"project": "courses.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

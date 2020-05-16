@@ -1,0 +1,33 @@
+body{
+        background-color: #fcf4a3;
+}
+
+.card{
+    width: 70%;
+    margin: auto;
+    /* height: 500px; */
+    margin-top: 20px;
+    border-radius: 50px;
+}
+.card .card-image img {
+    border-radius: 50px 50px 0 0;
+}
+footer ul:not(.browser-default) > li {
+    list-style-type: none;
+    background-color: #ffc107 !important
+}
+.page-footer {
+    padding-top: 20px;
+    color: #fff;
+    background-color:#01c5ce;
+}
+nav {
+    color: #cde7f6;
+    background-color: #cde7f6;
+    width: 100%;
+    height: 56px;
+    line-height: 56px;
+}
+.fa, .fab, .fad, .fal, .far, .fas {
+    
+    margin-left: 690px;}

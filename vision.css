@@ -1,0 +1,23 @@
+
+img{
+  width: 550px;
+  height: 400px;
+  padding: 20px;
+  float: right;
+  margin: 0 auto;
+}
+p{
+  font-size: 20px;
+  padding: 20px;
+}
+h2{
+  padding: 20px;
+}
+h1{
+  font-size: 30px;
+  text-align: center;
+}
+a:hover {
+  color: palegoldenrod;
+  text-decoration: none;
+}

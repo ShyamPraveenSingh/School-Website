@@ -1,0 +1,28 @@
+body{
+	background-color: #ffffff;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  margin-bottom: 16px;
+  padding: 0 18px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+
+p{
+	
+}
+
+.vl {
+  color: green;
+  border: 3px solid green;
+  height: 580px;
+  padding: 10px;
+}
+
+

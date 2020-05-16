@@ -1,0 +1,31 @@
+body{
+  background-color: #fcf4a3;
+}
+
+h2{
+	text-align: center;
+
+}
+ul{
+	font-size: 20px;
+}
+.btn {
+  border: none; /* Remove borders */
+  color: white; /* Add a text color */
+  padding: 14px 28px; /* Add some padding */
+  cursor: pointer; /* Add a pointer cursor on mouse-over */
+}
+
+.warning {background-color: #ff9800;} /* Orange */
+.warning:hover {background: #e68a00;}
+
+
+
+.boxed {
+  border: 4px solid black  ; 
+  padding: 10px;
+}
+a:hover {
+  color: white;
+  text-decoration: none;
+}
