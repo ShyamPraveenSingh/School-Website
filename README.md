@@ -1,9 +1,9 @@
 # School-Website
 
-The website for the school Pioneer Academy Lalganj.<br>
+The website for the school Pioneer Academy Lalganj.<br><br>
 
-<img src = "https://github.com/ShyamPraveenSingh/School-Website/blob/master/ss.png"><br>
-<img src = "https://github.com/ShyamPraveenSingh/School-Website/blob/master/ss2.png"><br>
+<img src = "https://github.com/ShyamPraveenSingh/School-Website/blob/master/ss.png"><br><br>
+<img src = "https://github.com/ShyamPraveenSingh/School-Website/blob/master/ss2.png"><br><br>
 <img src = "https://github.com/ShyamPraveenSingh/School-Website/blob/master/ss3.png"><br>
 
 
