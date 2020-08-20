@@ -3,7 +3,8 @@
 The website for the school Pioneer Academy Lalganj.<br>
 
 <img src = "https://github.com/ShyamPraveenSingh/School-Website/blob/master/ss.png"><br>
-<img src = ""><br>
+<img src = "https://github.com/ShyamPraveenSingh/School-Website/blob/master/ss2.png"><br>
+<img src = "https://github.com/ShyamPraveenSingh/School-Website/blob/master/ss3.png"><br>
 
 
 Made with HTML, CSS & JAVASCRIPT.<br>
